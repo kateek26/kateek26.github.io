@@ -14,6 +14,15 @@ p {
 	font-family: Impact;
 }
 
+li {
+	color:#7EA3CC;
+	font-family: Impact;
+	font-size: 15px;
+}
+ol, ul{
+	list-style: none;
+}
+
 .about {
 	color:#FFFDF7 ;
 	font-size: 25px;
